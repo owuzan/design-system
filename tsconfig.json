@@ -23,8 +23,14 @@
       "@/components/*": [
         "components/*"
       ],
+      "@/interfaces/*": [
+        "interfaces/*"
+      ],
       "@/ui/*": [
         "ui/*"
+      ],
+      "@/utils/*": [
+        "utils/*"
       ],
     },
   },
